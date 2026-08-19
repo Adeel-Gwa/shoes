@@ -1,0 +1,6 @@
+{
+  "name": "DŌNO | British Footwear",
+  "description": "Premium modern UK footwear brand — Step Into Your Standard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
